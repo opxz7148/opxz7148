@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=opxz7148" alt="opxz7148" /></a> </p>
 
-- 🌱 I’m currently learning **Java language and Java springboot framework**
-
 - 📫 How to reach me **opxz7148@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
